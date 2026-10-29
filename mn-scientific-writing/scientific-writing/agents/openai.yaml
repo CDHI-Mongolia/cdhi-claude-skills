@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Writing"
+  short_description: "Эрдэм шинжилгээний өгүүллийг англи, монгол хэлээр бичих, засах, хянах"
+  default_prompt: "$scientific-writing ашиглан энэ өгүүллийн хэсгийг эшлэл, тоо баримт зохиохгүйгээр бичээрэй."

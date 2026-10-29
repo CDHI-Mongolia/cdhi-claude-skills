@@ -1,0 +1,19 @@
+{
+  "name": "humanizer",
+  "description": "Rewrites Mongolian text that sounds AI-written so it reads like a person wrote it, keeping its meaning and facts.",
+  "version": "1.4.0",
+  "author": {
+    "name": "Center for Digital Health and Innovation"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "editing",
+    "humanize",
+    "proofreading",
+    "mongolian",
+    "монгол",
+    "найруулга",
+    "зөв бичих"
+  ]
+}

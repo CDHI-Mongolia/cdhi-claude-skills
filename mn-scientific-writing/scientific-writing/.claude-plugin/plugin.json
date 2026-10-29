@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scientific-writing",
+  "description": "Writes, revises and reviews scientific manuscripts in English or Mongolian, always ending in full paragraphs, never bullet points.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Center for Digital Health and Innovation"
+  },
+  "license": "MIT",
+  "keywords": [
+    "scientific-writing",
+    "research",
+    "academic",
+    "manuscript",
+    "imrad",
+    "citations",
+    "consort",
+    "mongolian",
+    "монгол",
+    "эрдэм шинжилгээ"
+  ],
+  "skills": [
+    "./"
+  ]
+}

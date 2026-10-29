@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "scientific-writing",
+  "owner": {
+    "name": "Center for Digital Health and Innovation"
+  },
+  "description": "Installs the scientific-writing skill (English and Mongolian) as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "scientific-writing",
+      "source": "./",
+      "description": "Writes, revises and reviews scientific manuscripts in English or Mongolian, always ending in full paragraphs, never bullet points.",
+      "license": "MIT",
+      "keywords": [
+        "scientific-writing",
+        "research",
+        "academic",
+        "manuscript",
+        "imrad",
+        "citations",
+        "consort",
+        "mongolian",
+        "монгол",
+        "эрдэм шинжилгээ"
+      ]
+    }
+  ]
+}

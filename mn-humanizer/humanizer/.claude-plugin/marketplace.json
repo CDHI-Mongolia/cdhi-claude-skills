@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "humanizer",
+  "owner": {
+    "name": "Center for Digital Health and Innovation"
+  },
+  "description": "Installs Humanizer, the Mongolian humanizer with English instructions, as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "humanizer",
+      "source": "./",
+      "description": "Rewrites Mongolian text that sounds AI-written so it reads like a person wrote it, keeping its meaning and facts.",
+      "license": "MIT",
+      "keywords": [
+        "writing",
+        "editing",
+        "humanize",
+        "proofreading",
+        "mongolian",
+        "монгол",
+        "найруулга",
+        "зөв бичих"
+      ]
+    }
+  ]
+}
